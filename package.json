@@ -12,5 +12,10 @@
     "shortner"
   ],
   "author": "Daniel Perez <tuvistavie@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "prompt": "^0.2.14",
+    "request": "^2.45.0"
+  }
 }
