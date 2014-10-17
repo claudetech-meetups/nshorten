@@ -1,0 +1,16 @@
+{
+  "name": "nshorten",
+  "version": "0.1.0",
+  "description": "URL shortner using bitly",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/claudetech-meetups/nshorten",
+  "keywords": [
+    "url",
+    "shortner"
+  ],
+  "author": "Daniel Perez <tuvistavie@gmail.com>",
+  "license": "MIT"
+}
